@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sales</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_item_home">Dashboard</string>
+    <string name="nav_item_friends">Products</string>
+    <string name="nav_item_notifications">Customers</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/action_settings</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">Settings</string>
+    <string name="title_friends">Products</string>
+    <string name="title_home">Dashboard</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
